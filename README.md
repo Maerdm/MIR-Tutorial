@@ -1,6 +1,4 @@
-# MIR Tutorial using Essentia and Librosa
-
-Some basic MIR-Stuff using the following libraries:
+## MIR Tutorial using Essentia and Librosa
 
 https://essentia.upf.edu/
 
